@@ -29,7 +29,7 @@ Official Microsoft resources provide tutorials, guides, and help learning Excel 
 
 ### Tools Used
 -------
--Microsoft Excel Application:
+-Microsoft Excel Application:[Download here](https://www.microsoft.com/en-ng/)
 
     1. For Data Cleaning
     2. For Data Analysis
@@ -38,10 +38,10 @@ Official Microsoft resources provide tutorials, guides, and help learning Excel 
   
    -The primary tool for learning and practicing Excel features, including formulas, charts, pivot tables, etc.
 
-- SQL- Structured Query Language for querying data
+- SQL- Structured Query Language for  managing data in Relational Database Management System(RDMS) [Download here](https://www.microsoft.com/sql-server-downloads) and also used in querying data
     -Types of SQL, SQL Commands, SQL data types, SQL Keys.
   
-- GitHub for portfolio building.
+- GitHub for portfolio building.[Dowmload here](https://www.GitHub.com)
 
 - Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports.
 
@@ -66,13 +66,13 @@ EDA involves exploring the data to answer some questions about the data such as;
 Here we included some basic lines of code and functions used during our analysis;
 
 - Basic Excel Functions
+
+![Basic Excel Functions](https://github.com/user-attachments/assets/ed061a10-47f6-4283-bbec-fea34512ad68)
+
 - Activated the pivot table command
 - Created a chart to visualize the sales
 
   ### Data Visualization
-
-https://github.com/Jemilius13/LITA_DATA_ANALYSIS_PROJECT/blob/main/Basic%20Excel%20Functions.jpg
-
 
 
 
