@@ -43,7 +43,7 @@ Official Microsoft resources provide tutorials, guides, and help learning Excel 
   
 - GitHub for portfolio building.[Dowmload here](https://www.GitHub.com)
 
-- Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports.
+- Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports.[Download here](https://www.powerBI.com)
 
 ### Data Cleaning and Preparation
 -----
@@ -76,16 +76,17 @@ Here we included some basic lines of code and functions used during our analysis
 ![revenue by Region](https://github.com/user-attachments/assets/942d1cfc-0572-480b-bfb8-82f03c45cf43)
 
 
+![Region by Unit Sold](https://github.com/user-attachments/assets/b0b55e11-2c31-4770-9daa-a7d05684f3b5)
 
 
 
 |Name:|Jemimah|Effiom|
 |-----|-------|------|
 
+🥇 💻
 
+|TechSkill:|Data|Analyst|
+|----------|----|-------|
 
-|Name:|Jemimah|Effiom|
-|-----|-------|------|
-
-
+👩‍💻 🤟 💻
 
