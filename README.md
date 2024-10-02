@@ -73,8 +73,19 @@ Here we included some basic lines of code and functions used during our analysis
 - Created a chart to visualize the sales
 
   ### Data Visualization
+![revenue by Region](https://github.com/user-attachments/assets/942d1cfc-0572-480b-bfb8-82f03c45cf43)
 
 
+
+
+
+|Name:|Jemimah|Effiom|
+|-----|-------|------|
+
+
+
+|Name:|Jemimah|Effiom|
+|-----|-------|------|
 
 
 
