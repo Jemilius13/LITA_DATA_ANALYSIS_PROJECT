@@ -88,5 +88,5 @@ Here we included some basic lines of code and functions used during our analysis
 |TechSkill:|Data|Analyst|
 |----------|----|-------|
 
-👩‍💻 🤟 💻
+👩‍💻 🤟 💻 
 
