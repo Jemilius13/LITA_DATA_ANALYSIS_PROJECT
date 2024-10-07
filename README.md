@@ -29,7 +29,7 @@ Official Microsoft resources provide tutorials, guides, and help learning Excel 
 
 ### Tools Used
 -------
--Microsoft Excel Application:[Download here](https://www.microsoft.com/en-ng/)
+ -Microsoft Excel Application:[Download here](https://www.microsoft.com/en-ng/)
 
     1. For Data Cleaning
     2. For Data Analysis
