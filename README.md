@@ -39,7 +39,11 @@ These datasets collectively provide a comprehensive view of sales performance, c
 
 ### Project Objectives
 ---------------
- - Data Collection: Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
+ - Data Collection:
+   Gather sales data from diverse sources, including different regions, stores, and market segments. Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
+ - Trend Analysis: Analyze historical data to identify trends and patterns in revenue generation, unit sales, and transaction types over specified periods.
+ - Performance Metrics: Establish key performance indicators (KPIs) to monitor performance and growth in sales and product categories.
+ - Reporting: Generate comprehensive reports that summarize findings and provide strategic recommendations based on the analysis.
 
 ### Tools Used
 -------
