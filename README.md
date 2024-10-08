@@ -28,7 +28,7 @@ The data sources include the following keys:
 4. Trade Date: This indicates the date on which transactions occurred, crucial for time-based analysis such as daily sales trends and seasonal performance.
 5. Fiscal Period: This represents the timeframes used for financial reporting (e.g., quarters, months) to evaluate performance against budget and forecasts.
 6. Model: This refers to the specific type or brand of a product offered for sale. 
-7. Line of Business: This denotes the different sectors or categories under which products or services are offered. 
+7. Line of Business: This represents the different sectors or categories under which products or services are offered. 
 8. Day: This represents the specific days of the week in which transactions occur. This dataset is useful for analyzing daily sales patterns and peak shopping times.
 9. Category: This classifies products into different groups based on shared characteristics or functions, facilitating targeted marketing and inventory management.
 10. Revenue: This refers to the total income generated from sales transactions, providing insights into financial performance and growth trends.
@@ -39,7 +39,7 @@ These datasets collectively provide a comprehensive view of sales performance, c
 
 ### Project Objectives
 ---------------
--Data Collection: Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
+ - Data Collection: Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
 
 ### Tools Used
 -------
