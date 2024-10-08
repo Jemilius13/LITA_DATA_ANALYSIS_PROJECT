@@ -21,13 +21,14 @@ This project aims to collect and analyze data from various regions, stores, and 
 
 ### Data Sources
 ------
-1. Region: This represents the geographical areas where stores are situated. It is often used to analyze performance based on location, such as sales trends, customer preferences, and market penetration.
-2. Market: These refer to specific segments within a broader region that capture various demographics and economic conditions. It helps in understanding market trends and competitive positioning.
+The data sources include the following keys:
+1. Region: This represents the geographical areas where stores are situated. 
+2. Market: These refer to specific segments within a broader region that capture various demographics and economic conditions. 
 3. Store: These refer to individual retail locations or outlets. This dataset captures information about store performance, inventory, and sales metrics.
 4. Trade Date: This indicates the date on which transactions occurred, crucial for time-based analysis such as daily sales trends and seasonal performance.
 5. Fiscal Period: This represents the timeframes used for financial reporting (e.g., quarters, months) to evaluate performance against budget and forecasts.
-6. Model: This refers to the specific type or brand of a product offered for sale. This helps in analyzing product performance and understanding customer preferences.
-7. Line of Business: This denotes the different sectors or categories under which products or services are offered. It aids in assessing overall business performance and strategic alignment.
+6. Model: This refers to the specific type or brand of a product offered for sale. 
+7. Line of Business: This denotes the different sectors or categories under which products or services are offered. 
 8. Day: This represents the specific days of the week in which transactions occur. This dataset is useful for analyzing daily sales patterns and peak shopping times.
 9. Category: This classifies products into different groups based on shared characteristics or functions, facilitating targeted marketing and inventory management.
 10. Revenue: This refers to the total income generated from sales transactions, providing insights into financial performance and growth trends.
@@ -35,6 +36,10 @@ This project aims to collect and analyze data from various regions, stores, and 
 12. Transaction Category: This classifies sales transactions into various types (e.g., online, in-store, returns) to analyze customer behavior and sales channel performance.
 
 These datasets collectively provide a comprehensive view of sales performance, customer behavior, and market dynamics, enabling informed decision-making.
+
+### Project Objectives
+---------------
+-Data Collection: Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
 
 ### Tools Used
 -------
