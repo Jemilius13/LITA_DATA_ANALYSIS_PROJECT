@@ -19,17 +19,24 @@ I am currently a data analyst, actively undergoing training with an incubator hu
 -------
 This project aims to collect and analyze data from various regions, stores, and markets to provide actionable insights that will inform business strategies, enhance operational efficiency, and improve customer satisfaction, gaining insights into revenue, units sold, and transaction categories across various regions and stores is critical for driving business strategies and improving overall performance. This project systematically collects and analyzes relevant data to provide actionable insights into sales trends, product performance, and market dynamics over different periods.
 
+### Project Objectives
+---------------
+ - Data Collection: Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
+ - Trend Analysis: Analyze historical data to identify trends and patterns in revenue generation, unit sales, and transaction types over specified periods.
+ - Performance Metrics: Establish key performance indicators (KPIs) to monitor performance and growth in sales and product categories.
+ - Reporting: Generate comprehensive reports that summarize findings and provide strategic recommendations based on the analysis.
+
 ### Data Sources
 ------
 The data sources include the following keys:
 1. Region: This represents the geographical areas where stores are situated. 
 2. Market: These refer to specific segments within a broader region that capture various demographics and economic conditions. 
 3. Store: These refer to individual retail locations or outlets. This dataset captures information about store performance, inventory, and sales metrics.
-4. Trade Date: This indicates the date on which transactions occurred, crucial for time-based analysis such as daily sales trends and seasonal performance.
+4. Trade Date: This indicates the date transactions occurred, which is crucial for time-based analysis such as daily sales trends and seasonal performance.
 5. Fiscal Period: This represents the timeframes used for financial reporting (e.g., quarters, months) to evaluate performance against budget and forecasts.
 6. Model: This refers to the specific type or brand of a product offered for sale. 
 7. Line of Business: This represents the different sectors or categories under which products or services are offered. 
-8. Day: This represents the specific days of the week in which transactions occur. This dataset is useful for analyzing daily sales patterns and peak shopping times.
+8. Day: This represents the specific days of the week transactions occur. This dataset is useful for analyzing daily sales patterns and peak shopping times.
 9. Category: This classifies products into different groups based on shared characteristics or functions, facilitating targeted marketing and inventory management.
 10. Revenue: This refers to the total income generated from sales transactions, providing insights into financial performance and growth trends.
 11. Units Sold: This indicates the quantity of products sold during a specific period, essential for inventory management and assessing sales effectiveness.
@@ -37,13 +44,6 @@ The data sources include the following keys:
 
 These datasets collectively provide a comprehensive view of sales performance, customer behavior, and market dynamics, enabling informed decision-making.
 
-### Project Objectives
----------------
- - Data Collection:
-   Gather sales data from diverse sources, including different regions, stores, and market segments. Collect detailed data on revenue, units sold, and transaction categories from various stores and regions.
- - Trend Analysis: Analyze historical data to identify trends and patterns in revenue generation, unit sales, and transaction types over specified periods.
- - Performance Metrics: Establish key performance indicators (KPIs) to monitor performance and growth in sales and product categories.
- - Reporting: Generate comprehensive reports that summarize findings and provide strategic recommendations based on the analysis.
 
 ### Tools Used
 -------
