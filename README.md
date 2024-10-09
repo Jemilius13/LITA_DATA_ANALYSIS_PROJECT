@@ -44,15 +44,18 @@ The data sources include the following keys:
 
 These datasets collectively provide a comprehensive view of sales performance, customer behavior, and market dynamics, enabling informed decision-making.
 
+### Metrics of Focus:
+- Revenue: Total sales revenue generated from different regions and stores.
+- Units Sold: Number of units sold across various transaction categories.
+- Transaction Categories: Categorization of transactions to understand customer purchasing behavior.
 
 ### Tools Used
 -------
- -Microsoft Excel Application:[Download here](https://www.microsoft.com/en-ng/)
-
-    1. For Data Cleaning
-    2. For Data Analysis
-    3. For Creating a pivot table
-    4. For Data Visualization
+ - Microsoft Excel: [Download here](https://www.microsoft.com/en-ng/)
+   
+    Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
+    Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
+    Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
   
    -The primary tool for learning and practicing Excel features, including formulas, charts, pivot tables, etc.
 
