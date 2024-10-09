@@ -1,5 +1,5 @@
 # LITA_DATA_ANALYSIS_PROJECT
-I am currently a data analyst, actively undergoing training with an incubator hub. This experience has been instrumental in sharpening my skills in data manipulation, analysis, and visualization. Through hands-on projects, I am gaining deeper insights into data-driven decision-making processes, enhancing my ability to extract meaningful patterns.
+I am currently a data analyst, actively undergoing training with an incubator hub. This experience has been instrumental in sharpening my skills in data manipulation, analysis, and visualization. Through hands-on projects, I gain deeper insights into data-driven decision-making processes, enhancing my ability to extract meaningful patterns.
 
 ### Project Title: Analysis of Sales and Report
 
@@ -12,8 +12,6 @@ I am currently a data analyst, actively undergoing training with an incubator hu
 [Metrics of Focus](#metrics-of-focus)
 
 [Tools Used](#tools-used)
-
-[Data Cleaning and Preparation](#data-cleaning-preparation)
 
 [Data Analysis](#data-analysis)
 
@@ -60,14 +58,6 @@ These datasets collectively provide a comprehensive view of sales performance, c
     - Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
     - Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
     - Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
-
-### Data Cleaning and Preparation
------
-In the initial Phase of the data cleaning and preparation, we performed the following actions; 
-
-- Data Loading and Inspection
-- Handling missing variables
-- Data cleaning and formatting
 
 ### Exploratory Data Analysis
 --------
