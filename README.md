@@ -5,7 +5,11 @@ I am currently a data analyst, actively undergoing training with an incubator hu
 
 [Project Overview](#project-overview)
 
+[project Objectives](#project-objectives)
+
 [Data Sources](#data-sources)
+
+[Metrics of Focus](#metrics-of-focus)
 
 [Tools Used](#tools-used)
 
@@ -45,6 +49,7 @@ The data sources include the following keys:
 These datasets collectively provide a comprehensive view of sales performance, customer behavior, and market dynamics, enabling informed decision-making.
 
 ### Metrics of Focus:
+-------
 - Revenue: Total sales revenue generated from different regions and stores.
 - Units Sold: Number of units sold across various transaction categories.
 - Transaction Categories: Categorization of transactions to understand customer purchasing behavior.
@@ -52,19 +57,9 @@ These datasets collectively provide a comprehensive view of sales performance, c
 ### Tools Used
 -------
  - Microsoft Excel: [Download here](https://www.microsoft.com/en-ng/)
-   
     Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
     Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
     Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
-  
-   -The primary tool for learning and practicing Excel features, including formulas, charts, pivot tables, etc.
-
-- SQL- Structured Query Language for  managing data in Relational Database Management System(RDMS) [Download here](https://www.microsoft.com/sql-server-downloads) and also used in querying data
-    -Types of SQL, SQL Commands, SQL data types, SQL Keys.
-  
-- GitHub for portfolio building.[Dowmload here](https://www.GitHub.com)
-
-- Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports.[Download here](https://www.powerBI.com)
 
 ### Data Cleaning and Preparation
 -----
