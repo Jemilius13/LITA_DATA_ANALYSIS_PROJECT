@@ -5,7 +5,7 @@ I am currently a data analyst, actively undergoing training with an incubator hu
 
 [Project Overview](#project-overview)
 
-[project Objectives](#project-objectives)
+[Project Objectives](#project-objectives)
 
 [Data Sources](#data-sources)
 
@@ -57,9 +57,9 @@ These datasets collectively provide a comprehensive view of sales performance, c
 ### Tools Used
 -------
  - Microsoft Excel: [Download here](https://www.microsoft.com/en-ng/)
-    Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
-    Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
-    Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
+    - Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
+    - Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
+    - Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
 
 ### Data Cleaning and Preparation
 -----
