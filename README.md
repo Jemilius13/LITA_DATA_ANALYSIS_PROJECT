@@ -85,6 +85,7 @@ Here we included some basic lines of code and functions used during our analysis
 
 ![Region by Unit Sold](https://github.com/user-attachments/assets/b0b55e11-2c31-4770-9daa-a7d05684f3b5)
 
+![revenue by Region](https://github.com/user-attachments/assets/7bda7a53-9e08-4511-b0a1-b1873208ae6c)
 
 
 
