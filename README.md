@@ -57,7 +57,7 @@ These datasets collectively provide a comprehensive view of sales performance, c
 -------
  - Microsoft Excel: [Download here](https://www.microsoft.com/en-ng/)
     - Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
-    - Formulas and Functions: To calculate performance metrics and automate processes like sorting and filtering.
+    - Formulas and Functions: Calculate performance metrics and automate processes like sorting and filtering.
     - Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
 
 ### Exploratory Data Analysis
