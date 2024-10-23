@@ -55,7 +55,7 @@ These datasets collectively provide a comprehensive view of sales performance, c
 
 ### Tools Used
 -------
- - Microsoft Excel: [Download here](https://www.microsoft.com/en-ng/)
+ - Microsoft Excel: 
     - Pivot Tables: Summarizing data and generating insights based on revenue, units sold, and transaction categories.
     - Formulas and Functions: Calculate performance metrics and automate processes like sorting and filtering.
     - Data Visualizations (Charts, Graphs): To create visual representations of trends, comparisons, and key insights. 
@@ -68,24 +68,20 @@ EDA involves exploring the data to answer some questions about the data such as;
 - What are the models for peak sales?
 - Which store has the lowest unit?
 
-### Data Analysis
-------
-Here we included some basic lines of code and functions used during our analysis;
-
-- Basic Excel Functions
-
-![Basic Excel Functions](https://github.com/user-attachments/assets/ed061a10-47f6-4283-bbec-fea34512ad68)
-
-- Activated the pivot table command
-- Created a chart to visualize the sales
-
   ### Data Visualization
-![revenue by Region](https://github.com/user-attachments/assets/942d1cfc-0572-480b-bfb8-82f03c45cf43)
+  -----------------------
+PIVOT TABLE:
+---------------------------
+
+![REGION BY REVENUE](https://github.com/user-attachments/assets/2d191aa1-ea06-4d7f-a24b-458b873edbc1)
+
+![Revenue by Region 2014](https://github.com/user-attachments/assets/c6d302d4-bb62-44a0-9d72-13c0b72af911)
+
+![Revenue by Region 2015](https://github.com/user-attachments/assets/359b07cd-a978-487c-87b3-2a1a8c45be00)
 
 
-![Region by Unit Sold](https://github.com/user-attachments/assets/b0b55e11-2c31-4770-9daa-a7d05684f3b5)
 
-![revenue by Region](https://github.com/user-attachments/assets/7bda7a53-9e08-4511-b0a1-b1873208ae6c)
+
 
 
 
