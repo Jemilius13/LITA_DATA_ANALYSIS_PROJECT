@@ -13,8 +13,6 @@ I am currently a data analyst, actively undergoing training with an incubator hu
 
 [Tools Used](#tools-used)
 
-[Data Analysis](#data-analysis)
-
 [Data Visualization](#data-visualization)
 
 ### Project Overview
@@ -70,12 +68,13 @@ EDA involves exploring the data to answer some questions about the data such as;
 
   ### Data Visualization
   -----------------------
-   1. REGION BY REVENUE
+   1. ### REGION BY REVENUE
   
 PIVOT TABLE:
 ---------------------------
 
-![REGION BY REVENUE](https://github.com/user-attachments/assets/2d191aa1-ea06-4d7f-a24b-458b873edbc1)
+![REGION BY REVENUE](https://github.com/user-attachments/assets/6b4394ff-ae0b-4c5f-aebb-1a3912c81ff8)
+
 
 #### - FILTERED CHART FOR THE YEAR 2014
 ![Revenue by Region 2014](https://github.com/user-attachments/assets/5c7bb56d-73c3-4f0a-9fc2-1de25220e48b)
@@ -85,21 +84,34 @@ PIVOT TABLE:
 
 ### Deduction:
   1. #### General Revenue Trajectory:
-      This graph shows a steady decline in revenue across regions. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North Central and North West.
+      This graph shows a steady decline in revenue across regions. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in the lower-performing areas like North Central and North West.
   2. #### Regional Performance:
- - North East: The chart shows that the North East region generates the highest revenue, significantly outperforming other regions. This suggests a strong market presence, high customer demand, or effective business operations in this area.
+ - North East: The chart shows that the North East region generates the highest revenue, significantly outperforming other region. This suggests a strong market presence, high customer demand, or effective business operations in this area.
  - South West: The second-highest revenue generator. It shows solid performance, though not as strong as North East, indicating a relatively healthy market.
- - South South: This region still contributes significantly but could offer potentials for further growth. it reflects the start of a downward trend in revenue across regions.
- - South East: indicating a decline compared to the top-performing regions. The region may have untapped market potential or might need targeted strategies to boost performance.
- - North West: shows a considerable drop from the other regions. It represents an underperforming area that could benefit from increased focus and investment.
- - North Central: This region appears to have the weakest market presence, making it a prime candidate for strategic improvements and market development.
+ - South-South: This region still contributes significantly but could offer potential for further growth. It reflects the start of a downward trend in revenue across regions.
+ - South-East: indicating a decline compared to the top-performing regions. The region may have untapped market potential or need targeted strategies to boost performance.
+ - North-West: This shows a considerable drop from the other regions. It represents an underperforming area that could benefit from increased focus and investment.
+ - North-Central: This region appears to have the weakest market presence, making it a prime candidate for strategic improvements and market development.
    
  3. ##### Revenue Allocation:
      The significant difference in revenue across regions suggests that resources, such as marketing, sales, or operational efforts, might be unevenly distributed. The company could focus on optimizing resources 
     in South East, North West, and North Central to drive revenue growth.
 
 #### Conclusion
-  The Revenue data suggests that the company or organization experiences its strongest performance in the North-East, with diminishing results as it moves to the South West, South South, South East, North West, and finally, North Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North Central and North West.  It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
+  The Revenue data suggests that the organization experiences its strongest performance in the North-East, with diminishing results as it moves to the South-West, South-South, South East, North West, and finally, North Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North Central and North West.  It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
+
+
+ 2.  ### REGION BY UNITS SOLD
+    
+ ### PIVOT TABLE:
+ --------------------------
+ ![REGION BY UNITS SOLD](https://github.com/user-attachments/assets/ad2fec8b-e30e-41ac-8fac-91e0967c464d)
+
+ #### - FILTERED CHART FOR THE YEAR 2014
+
+
+ 
+
     
 
 
