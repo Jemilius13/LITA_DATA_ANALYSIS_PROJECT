@@ -122,6 +122,14 @@ PIVOT TABLE:
 
 
 
+
+
+
+
+
+
+
+
 |Name:|Jemimah|Effiom|
 |-----|-------|------|
 
