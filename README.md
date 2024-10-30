@@ -46,7 +46,7 @@ The data sources include the following keys:
 These datasets collectively provide a comprehensive view of sales performance, customer behavior, and market dynamics, enabling informed decision-making.
 
 ### Metrics of Focus:
--------
+-----------
 - Revenue: Total sales revenue generated from different regions and stores.
 - Units Sold: Number of units sold across various transaction categories.
 - Transaction Categories: Categorization of transactions to understand customer purchasing behavior.
@@ -107,7 +107,8 @@ PIVOT TABLE:
  --------------------------
  ![REGION BY UNITS SOLD](https://github.com/user-attachments/assets/ad2fec8b-e30e-41ac-8fac-91e0967c464d)
 
- #### - FILTERED CHART FOR THE YEAR 2014
+ #### - PIVOT CHART FOR 
+ 
 
 
  
